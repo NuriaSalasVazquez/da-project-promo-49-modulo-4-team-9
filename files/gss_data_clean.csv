@@ -1405,7 +1405,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1404,2018,Female,37.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Somewhat satisfied,Unk,Not too happy,Unk,Unk,Often,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Not too true,NO,Unk,Unk
 1405,2018,Male,64.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Never,Unk,Pretty happy,Unk,Unk,AGREE,Unk,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk
 1406,2018,Female,74.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-1407,2018,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1408,2018,Male,22.0,$20000 - 24999,22500.0,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Rarely,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1409,2018,Female,26.0,$7000 TO 7999,7500.0,Keeping house,A little dissatisfied,Unk,Unk,Not too happy,Unk,Fairly happy,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,VERY UNLIKELY,Unk,Unk,Unk,Unk
 1410,2018,Female,52.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Very satisfied,Not likely,Pretty happy,Unk,Fairly happy,Unk,Unk,Very happy,Unk,Not strongly oppose,Unk,VERY UNLIKELY,Unk,Somewhat true,NO,NO,Unk
@@ -2077,7 +2076,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2076,2018,Female,66.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Rarely,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2077,2018,Male,28.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Somewhat satisfied,Not too likely,Pretty happy,Unk,Unk,Rarely,Unk,Unk,Unk,Unk,AGREE,Unk,SOMEWHAT LIKELY,Somewhat true,NO,YES,Unk
 2078,2018,Female,27.0,Unk,,Working full time,Moderately satisfied,Very satisfied,Not too likely,Pretty happy,Unk,Fairly happy,Unk,Unk,Pretty happy,Unk,Strongly oppose,Unk,SOMEWHAT LIKELY,Unk,Somewhat true,NO,NO,Unk
-2079,2018,Male,89.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2080,2018,Male,26.0,$20000 - 24999,22500.0,Working full time,Very satisfied,Very satisfied,Not too likely,Very happy,Unk,Unk,Never,Unk,Pretty happy,Unk,Unk,AGREE,Unk,VERY LIKELY,Somewhat true,NO,NO,Unk
 2081,2018,Female,28.0,$10000 - 14999,12500.0,Working part time,A little dissatisfied,Not too satisfied,Fairly likely,Pretty happy,Unk,Fairly happy,Unk,Unk,Pretty happy,Unk,Strongly oppose,Unk,SOMEWHAT LIKELY,Unk,Not too true,NO,NO,Unk
 2082,2018,Female,66.0,$10000 - 14999,12500.0,Working part time,Very dissatisfied,Not at all satisfied,Not too likely,Pretty happy,Unk,Very happy,Unk,Unk,Very happy,Unk,Strongly oppose,Unk,VERY LIKELY,Unk,Somewhat true,NO,NO,Unk
@@ -2257,7 +2255,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2256,2018,Female,57.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Very satisfied,Not likely,Pretty happy,Unk,Fairly happy,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,SOMEWHAT LIKELY,Somewhat true,NO,NO,Unk
 2257,2018,Male,37.0,$10000 - 14999,12500.0,Working full time,Very satisfied,Somewhat satisfied,Not likely,Very happy,Unk,Unk,Never,Unk,Unk,Very happy,Unk,AGREE,Unk,SOMEWHAT UNLIKELY,Unk,NO,YES,Unk
 2258,2018,Male,77.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Very happy,Unk,Unk,Pretty happy,Unk,Strongly favor,Unk,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-2259,2018,Male,67.0,Unk,,Retired,Unk,Unk,Unk,Unk,Unk,Unk,Never,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2260,2018,Female,34.0,$15000 - 19999,17500.0,Working full time,Very satisfied,Very satisfied,Fairly likely,Very happy,Unk,Very happy,Unk,Unk,Very happy,Unk,Not strongly oppose,Unk,VERY LIKELY,Unk,Somewhat true,NO,NO,Unk
 2261,2018,Female,24.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Somewhat satisfied,Unk,Not too happy,Unk,Unk,Never,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Not at all true,NO,YES,Unk
 2262,2018,Female,21.0,$20000 - 24999,22500.0,Working full time,Very satisfied,Very satisfied,Not likely,Very happy,Unk,Very happy,Unk,Unk,Unk,Unk,Strongly oppose,Unk,SOMEWHAT LIKELY,Unk,Very true,NO,NO,Unk
@@ -2356,7 +2353,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 8,2021,Male,20.0,$3000 TO 3999,3500.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 9,2021,Female,,$25000 OR MORE,30000.0,Working part time,A little dissatisfied,Unk,Very likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 10,2021,Male,76.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-12,2021,Female,61.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 13,2021,Male,37.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 14,2021,Male,23.0,$5000 TO 5999,5500.0,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 15,2021,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2407,13 +2403,11 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 65,2021,Male,89.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 66,2021,Male,51.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 67,2021,Male,78.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-68,2021,Female,,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 69,2021,Male,,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 70,2021,Male,,$25000 OR MORE,30000.0,Working part time,Very dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 71,2021,Female,42.0,Unk,,Working full time,A little dissatisfied,Unk,Fairly likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 72,2021,Male,64.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 74,2021,Female,51.0,Unk,,Working part time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-75,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 76,2021,Female,51.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 77,2021,Male,50.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 78,2021,Female,55.0,$25000 OR MORE,30000.0,Working part time,Moderately satisfied,Unk,Fairly likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2424,7 +2418,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 83,2021,Female,72.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 84,2021,Female,64.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 85,2021,Male,42.0,$20000 - 24999,22500.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-86,2021,Female,73.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 88,2021,Male,49.0,Unk,,Working full time,A little dissatisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 89,2021,Female,63.0,$20000 - 24999,22500.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 90,2021,Female,32.0,$5000 TO 5999,5500.0,Unemployed,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2464,7 +2457,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 126,2021,Female,41.0,Unk,,Keeping house,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,v,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 127,2021,Female,54.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 128,2021,Unk,,Unk,,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-130,2021,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 131,2021,Female,89.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 132,2021,Female,63.0,$20000 - 24999,22500.0,Working part time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 135,2021,Male,73.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -2481,20 +2473,17 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 147,2021,Female,25.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 148,2021,Male,58.0,$25000 OR MORE,30000.0,Unemployed,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 149,2021,Female,84.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-150,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 151,2021,Female,63.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Not too happy,Not strongly favor,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 152,2021,Female,36.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 153,2021,Male,67.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 154,2021,Female,53.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 155,2021,Female,60.0,Unk,,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-156,2021,Male,87.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 158,2021,Female,74.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 159,2021,Female,66.0,$1000 TO 2999,2000.0,Unemployed,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 160,2021,Female,46.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 161,2021,Male,43.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 162,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 163,2021,Male,49.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-164,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 165,2021,Female,54.0,$15000 - 19999,17500.0,Unemployed,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 166,2021,Male,53.0,$25000 OR MORE,30000.0,Unemployed,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,Unk,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 167,2021,Female,,Unk,,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2527,10 +2516,8 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 201,2021,Female,32.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 202,2021,Male,69.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 203,2021,Male,67.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-205,2021,Male,28.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 206,2021,Female,41.0,$15000 - 19999,17500.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 207,2021,Female,45.0,Unk,,Unemployed,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-208,2021,Unk,,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 209,2021,Male,,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 210,2021,Female,64.0,$15000 - 19999,17500.0,Unemployed,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 211,2021,Male,41.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2548,7 +2535,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 224,2021,Female,37.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 225,2021,Male,35.0,Unk,,Working full time,Very dissatisfied,Unk,Very likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 226,2021,Female,42.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Fairly likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-227,2021,Female,57.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 229,2021,Female,28.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 230,2021,Female,37.0,$4000 TO 4999,4500.0,Unemployed,Moderately satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 231,2021,Female,72.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -2560,7 +2546,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 237,2021,Male,59.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 238,2021,Female,44.0,$1000 TO 2999,2000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 239,2021,Female,78.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-240,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 241,2021,Female,46.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 242,2021,Male,37.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 243,2021,Female,49.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -2581,13 +2566,10 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 261,2021,Female,64.0,$25000 OR MORE,30000.0,"Job, but not at work",Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 262,2021,Female,34.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 263,2021,Male,39.0,Unk,,Unemployed,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-264,2021,Male,68.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 265,2021,Female,32.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 266,2021,Female,29.0,Unk,,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 267,2021,Female,45.0,Unk,,Keeping house,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 268,2021,Female,42.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-269,2021,Female,74.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-270,2021,Unk,,Unk,,Keeping house,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 271,2021,Male,32.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 272,2021,Male,38.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 273,2021,Female,60.0,$20000 - 24999,22500.0,Working part time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -2611,7 +2593,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 293,2021,Female,34.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 294,2021,Male,52.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 296,2021,Male,39.0,$20000 - 24999,22500.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Strongly oppose,STRONGLY DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-297,2021,Female,78.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 298,2021,Female,27.0,$15000 - 19999,17500.0,"Job, but not at work",Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 299,2021,Female,53.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 300,2021,Female,61.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2622,7 +2603,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 305,2021,Male,33.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly oppose,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 306,2021,Male,69.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 307,2021,Female,57.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-308,2021,Male,69.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 309,2021,Male,60.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 310,2021,Male,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 312,2021,Male,61.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -2660,7 +2640,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 345,2021,Female,44.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 346,2021,Female,63.0,$25000 OR MORE,30000.0,Unemployed,A little dissatisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 348,2021,Female,59.0,$4000 TO 4999,4500.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,STRONGLY DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-349,2021,Female,70.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 350,2021,Female,59.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 351,2021,Male,66.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 352,2021,Female,74.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2673,7 +2652,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 360,2021,Male,37.0,$3000 TO 3999,3500.0,Unemployed,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 361,2021,Male,27.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 362,2021,Female,67.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-363,2021,Female,73.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 364,2021,Female,22.0,$20000 - 24999,22500.0,Working full time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 365,2021,Female,,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 366,2021,Male,47.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2684,7 +2662,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 371,2021,Female,32.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 372,2021,Female,67.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 373,2021,Male,34.0,$25000 OR MORE,30000.0,Unemployed,Very dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-374,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 375,2021,Male,69.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 376,2021,Unk,,Unk,,Working part time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 377,2021,Male,45.0,$8000 TO 9999,9000.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2705,7 +2682,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 393,2021,Female,56.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 395,2021,Female,44.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 396,2021,Female,30.0,$25000 OR MORE,30000.0,Unemployed,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-397,2021,Male,79.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 398,2021,Female,65.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 399,2021,Male,43.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 400,2021,Female,43.0,$1000 TO 2999,2000.0,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -2718,7 +2694,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 407,2021,Male,47.0,$25000 OR MORE,30000.0,Unemployed,Very dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 408,2021,Female,27.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 409,2021,Female,30.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,v,Unk,Strongly oppose,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-410,2021,Unk,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 411,2021,Male,36.0,$10000 - 14999,12500.0,Working part time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 412,2021,Female,26.0,Unk,,Working full time,A little dissatisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 413,2021,Female,45.0,$8000 TO 9999,9000.0,Keeping house,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2732,10 +2707,7 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 422,2021,Male,37.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 423,2021,Female,61.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly favor,DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 424,2021,Female,52.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-425,2021,Male,65.0,Unk,,Working part time,Very satisfied,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 427,2021,Female,65.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-428,2021,Male,61.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-430,2021,Unk,,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 431,2021,Female,49.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 432,2021,Male,22.0,$10000 - 14999,12500.0,Unemployed,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 433,2021,Male,50.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2745,7 +2717,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 437,2021,Male,45.0,$25000 OR MORE,30000.0,Working part time,Unk,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 438,2021,Female,37.0,Unk,,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 439,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,STRONGLY DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-440,2021,Male,18.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 441,2021,Male,42.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 443,2021,Female,37.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 444,2021,Male,44.0,Unk,,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -2791,12 +2762,10 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 486,2021,Female,57.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Not strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 487,2021,Female,49.0,$8000 TO 9999,9000.0,Working part time,A little dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 488,2021,Female,46.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-490,2021,Female,81.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 491,2021,Female,35.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 492,2021,Female,28.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 493,2021,Male,70.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 494,2021,Male,57.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-495,2021,Female,44.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 496,2021,Male,,Unk,,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 497,2021,Male,35.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 498,2021,Female,41.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2831,7 +2800,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 530,2021,Male,21.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 531,2021,Female,64.0,$25000 OR MORE,30000.0,Working part time,Moderately satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 532,2021,Female,49.0,$25000 OR MORE,30000.0,"Job, but not at work",Moderately satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-533,2021,Male,67.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 534,2021,Female,33.0,$8000 TO 9999,9000.0,"Job, but not at work",Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 535,2021,Female,31.0,Unk,,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 536,2021,Female,74.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -2910,7 +2878,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 618,2021,Female,41.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,STRONGLY DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 619,2021,Male,43.0,$25000 OR MORE,30000.0,Working full time,Very dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 620,2021,Female,49.0,Unk,,Working full time,Very satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Not too happy,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-621,2021,Female,76.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 622,2021,Female,38.0,$10000 - 14999,12500.0,Unemployed,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 623,2021,Female,46.0,Unk,,Working full time,Moderately satisfied,Unk,Not too likely,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 624,2021,Male,,Unk,,Working full time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2920,7 +2887,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 628,2021,Female,35.0,$10000 - 14999,12500.0,Keeping house,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 629,2021,Male,69.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 630,2021,Male,53.0,$15000 - 19999,17500.0,Working part time,A little dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-631,2021,Unk,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 632,2021,Female,53.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 633,2021,Female,30.0,Unk,,Working full time,Very satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 634,2021,Male,70.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -2970,7 +2936,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 678,2021,Male,21.0,$1000 TO 2999,2000.0,Unemployed,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 679,2021,Female,89.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 680,2021,Male,69.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-681,2021,Female,70.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 682,2021,Male,70.0,LT $1000,500.0,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 683,2021,Male,38.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 684,2021,Male,51.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3002,7 +2967,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 712,2021,Male,25.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 713,2021,Male,61.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 714,2021,Male,77.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-715,2021,Male,67.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 717,2021,Male,,Unk,,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly favor,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 718,2021,Female,27.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 719,2021,Female,50.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3029,15 +2993,12 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 742,2021,Unk,,$10000 - 14999,12500.0,Working full time,A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 744,2021,Female,78.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 745,2021,Female,72.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-746,2021,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-747,2021,Female,85.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 748,2021,Male,76.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 749,2021,Male,35.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 750,2021,Female,54.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 751,2021,Male,28.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Not strongly oppose,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 752,2021,Female,77.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Not strongly oppose,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 753,2021,Male,69.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-754,2021,Male,77.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 755,2021,Female,60.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 756,2021,Female,,$10000 - 14999,12500.0,Working part time,Moderately satisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 757,2021,Unk,,Unk,,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3090,7 +3051,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 808,2021,Female,66.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 809,2021,Unk,,$25000 OR MORE,30000.0,"Job, but not at work",Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 810,2021,Male,67.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-811,2021,Female,55.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 812,2021,Female,57.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 813,2021,Unk,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 814,2021,Male,64.0,LT $1000,500.0,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3114,7 +3074,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 833,2021,Female,78.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 834,2021,Male,38.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 835,2021,Female,45.0,$25000 OR MORE,30000.0,"Job, but not at work",Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly favor,STRONGLY AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
-836,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 837,2021,Female,28.0,$20000 - 24999,22500.0,Working full time,Very dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 838,2021,Female,68.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 839,2021,Male,35.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -3144,7 +3103,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 866,2021,Male,70.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 867,2021,Male,52.0,$25000 OR MORE,30000.0,"Job, but not at work",A little dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 868,2021,Male,37.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-869,2021,Female,50.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 870,2021,Female,,Unk,,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 871,2021,Female,49.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 872,2021,Male,66.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3184,15 +3142,12 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 911,2021,Female,31.0,$25000 OR MORE,30000.0,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 912,2021,Unk,,Unk,,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 914,2021,Male,60.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-915,2021,Male,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 916,2021,Male,55.0,$25000 OR MORE,30000.0,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 917,2021,Female,47.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 918,2021,Female,38.0,$25000 OR MORE,30000.0,Working part time,Moderately satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 919,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 920,2021,Female,71.0,$1000 TO 2999,2000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 921,2021,Female,35.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Strongly oppose,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-922,2021,Female,75.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-923,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 924,2021,Female,60.0,$5000 TO 5999,5500.0,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 925,2021,Female,,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 926,2021,Female,80.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -3203,7 +3158,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 932,2021,Female,73.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 933,2021,Male,53.0,Unk,,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 934,2021,Female,20.0,$5000 TO 5999,5500.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-935,2021,Male,58.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 936,2021,Male,61.0,Unk,,Other,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 937,2021,Female,35.0,$25000 OR MORE,30000.0,Unemployed,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,STRONGLY DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 938,2021,Female,58.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3218,7 +3172,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 947,2021,Female,75.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 948,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 949,2021,Female,51.0,$25000 OR MORE,30000.0,Unemployed,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-950,2021,Male,89.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 952,2021,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 953,2021,Male,71.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 954,2021,Male,58.0,$25000 OR MORE,30000.0,Working full time,Very dissatisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3230,9 +3183,7 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 960,2021,Male,64.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 961,2021,Female,55.0,Unk,,Working part time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 964,2021,Female,73.0,$20000 - 24999,22500.0,Unemployed,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-965,2021,Female,82.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 966,2021,Male,55.0,$25000 OR MORE,30000.0,Unemployed,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-968,2021,Female,40.0,Unk,,"Job, but not at work",Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 969,2021,Female,33.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 972,2021,Male,82.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 973,2021,Male,58.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3281,7 +3232,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1023,2021,Male,29.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Not strongly oppose,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1024,2021,Male,,Unk,,Unemployed,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1025,2021,Male,,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1026,2021,Male,48.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1027,2021,Female,46.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1028,2021,Male,45.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,STRONGLY AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 1029,2021,Male,21.0,Unk,,Unemployed,Very dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3417,7 +3367,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1169,2021,Female,78.0,$10000 - 14999,12500.0,Working part time,Very satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1171,2021,Female,62.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1172,2021,Female,39.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1173,2021,Female,84.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1174,2021,Female,46.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1175,2021,Female,42.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1176,2021,Male,58.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,STRONGLY DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -3454,12 +3403,10 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1210,2021,Male,38.0,$25000 OR MORE,30000.0,"Job, but not at work",Moderately satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1211,2021,Female,54.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1212,2021,Male,33.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-1213,2021,Male,76.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1214,2021,Female,51.0,$20000 - 24999,22500.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1215,2021,Male,31.0,$25000 OR MORE,30000.0,Working full time,Very dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1216,2021,Female,29.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1217,2021,Female,64.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-1218,2021,Female,37.0,Unk,,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1219,2021,Male,30.0,$20000 - 24999,22500.0,Working full time,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1220,2021,Female,34.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1222,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -3469,7 +3416,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1228,2021,Female,44.0,$8000 TO 9999,9000.0,Working part time,Very dissatisfied,Unk,Very likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1229,2021,Female,63.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1230,2021,Female,48.0,$25000 OR MORE,30000.0,Working full time,Very dissatisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
-1231,2021,Female,72.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1232,2021,Male,43.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1233,2021,Female,69.0,$1000 TO 2999,2000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1235,2021,Female,79.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -3497,7 +3443,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1259,2021,Female,28.0,$15000 - 19999,17500.0,Working full time,A little dissatisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1260,2021,Male,30.0,$20000 - 24999,22500.0,Working part time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1261,2021,Male,23.0,$4000 TO 4999,4500.0,In school,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1263,2021,Female,76.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1264,2021,Female,80.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1265,2021,Male,73.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1266,2021,Female,64.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3534,7 +3479,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1300,2021,Female,43.0,$20000 - 24999,22500.0,Keeping house,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1303,2021,Male,42.0,$10000 - 14999,12500.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1304,2021,Male,29.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-1305,2021,Male,75.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1306,2021,Male,85.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1307,2021,Male,59.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1308,2021,Male,53.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3572,7 +3516,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1342,2021,Female,46.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1343,2021,Male,19.0,Unk,,Unemployed,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1344,2021,Male,87.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1345,2021,Female,78.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1346,2021,Male,88.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1347,2021,Male,55.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1348,2021,Female,61.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3615,11 +3558,8 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1389,2021,Female,41.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1391,2021,Female,,$20000 - 24999,22500.0,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1392,2021,Male,85.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-1393,2021,Male,80.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1394,2021,Female,75.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1395,2021,Male,73.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1396,2021,Male,40.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1397,2021,Female,55.0,Unk,,"Job, but not at work",Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1398,2021,Female,80.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1399,2021,Male,70.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1400,2021,Male,60.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3635,7 +3575,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1410,2021,Female,32.0,$15000 - 19999,17500.0,Working full time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1411,2021,Male,39.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,STRONGLY DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1413,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-1414,2021,Female,75.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1415,2021,Female,41.0,Unk,,Working part time,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1416,2021,Female,37.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1417,2021,Male,66.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -3674,11 +3613,8 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1452,2021,Female,50.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1453,2021,Female,42.0,$25000 OR MORE,30000.0,Unemployed,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1454,2021,Male,55.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-1455,2021,Male,70.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-1456,2021,Female,64.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1457,2021,Female,67.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1458,2021,Male,41.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-1459,2021,Female,80.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1460,2021,Female,84.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1461,2021,Male,65.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1462,2021,Female,87.0,$10000 - 14999,12500.0,Working part time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3700,7 +3636,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1479,2021,Male,82.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1480,2021,Female,77.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1481,2021,Female,53.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1482,2021,Female,72.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1483,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1484,2021,Male,31.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Strongly oppose,STRONGLY DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1485,2021,Female,67.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3710,9 +3645,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1489,2021,Female,70.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1490,2021,Female,77.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1491,2021,Male,65.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1492,2021,Female,52.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-1493,2021,Unk,21.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-1494,2021,Female,79.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1495,2021,Female,46.0,Unk,,Working part time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1496,2021,Female,81.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 1497,2021,Female,58.0,$1000 TO 2999,2000.0,Keeping house,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3742,10 +3674,8 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1524,2021,Male,40.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1525,2021,Male,86.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1526,2021,Female,71.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1527,2021,Male,25.0,$1000 TO 2999,2000.0,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1528,2021,Female,51.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1529,2021,Female,64.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1530,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1531,2021,Male,64.0,$25000 OR MORE,30000.0,Working part time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1532,2021,Female,60.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1534,2021,Male,73.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -3765,7 +3695,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1548,2021,Female,49.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1549,2021,Male,75.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1550,2021,Female,67.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-1551,2021,Unk,,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1552,2021,Female,28.0,$4000 TO 4999,4500.0,Unemployed,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1553,2021,Female,62.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1554,2021,Female,62.0,$20000 - 24999,22500.0,Working part time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -3811,11 +3740,8 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1595,2021,Male,37.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1596,2021,Female,58.0,$25000 OR MORE,30000.0,Working part time,Moderately satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1597,2021,Male,20.0,Unk,,Working full time,A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-1598,2021,Unk,,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1599,2021,Unk,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1600,2021,Male,33.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1601,2021,Female,45.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1602,2021,Female,77.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1603,2021,Female,54.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1604,2021,Male,48.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1606,2021,Female,48.0,$10000 - 14999,12500.0,Working part time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,STRONGLY DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3837,7 +3763,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1625,2021,Male,56.0,$25000 OR MORE,30000.0,"Job, but not at work",Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,STRONGLY DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 1626,2021,Male,39.0,$25000 OR MORE,30000.0,Unemployed,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1627,2021,Female,61.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1628,2021,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1629,2021,Unk,,Unk,,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1630,2021,Female,48.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1631,2021,Female,26.0,$7000 TO 7999,7500.0,Working part time,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3846,7 +3771,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1634,2021,Female,63.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1635,2021,Female,38.0,$1000 TO 2999,2000.0,Working part time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1636,2021,Female,36.0,Unk,,Working part time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Not strongly oppose,DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
-1638,2021,Female,74.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1639,2021,Female,41.0,$20000 - 24999,22500.0,Working full time,Very satisfied,Unk,Very likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1640,2021,Female,63.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1641,2021,Male,52.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Not strongly oppose,STRONGLY DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -3897,8 +3821,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1694,2021,Female,60.0,$25000 OR MORE,30000.0,Unemployed,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1695,2021,Female,59.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1696,2021,Male,29.0,$20000 - 24999,22500.0,Working full time,A little dissatisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-1697,2021,Male,89.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-1698,2021,Female,64.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1699,2021,Male,69.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1700,2021,Female,66.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1701,2021,Male,66.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3920,7 +3842,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1718,2021,Female,58.0,$3000 TO 3999,3500.0,Working part time,Moderately satisfied,Unk,Fairly likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1719,2021,Male,40.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1720,2021,Female,30.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1721,2021,Male,,Unk,,In school,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1722,2021,Female,53.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1723,2021,Male,65.0,$10000 - 14999,12500.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1724,2021,Male,50.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3961,10 +3882,8 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1764,2021,Female,29.0,$3000 TO 3999,3500.0,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1766,2021,Female,66.0,$10000 - 14999,12500.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1767,2021,Female,42.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1768,2021,Male,81.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1769,2021,Male,73.0,$25000 OR MORE,30000.0,"Job, but not at work",Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1770,2021,Male,40.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Not strongly favor,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-1771,2021,Female,87.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1772,2021,Male,60.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1773,2021,Male,47.0,Unk,,Working part time,Moderately satisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1774,2021,Male,77.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -3995,12 +3914,10 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1807,2021,Female,62.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1808,2021,Male,50.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,STRONGLY DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1809,2021,Female,31.0,$25000 OR MORE,30000.0,Unemployed,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1810,2021,Female,56.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1811,2021,Male,57.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1812,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1813,2021,Male,79.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1814,2021,Male,42.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1815,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1816,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1817,2021,Female,59.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1818,2021,Female,62.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4010,7 +3927,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1822,2021,Female,56.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1823,2021,Female,79.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1824,2021,Female,42.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1825,2021,Unk,,Unk,,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1826,2021,Female,88.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1827,2021,Female,79.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly favor,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1828,2021,Male,46.0,Unk,,Working full time,A little dissatisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4032,7 +3948,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1845,2021,Female,78.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1846,2021,Female,55.0,Unk,,Working part time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1847,2021,Male,70.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-1848,2021,Female,66.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1849,2021,Female,49.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1850,2021,Male,47.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1851,2021,Female,,Unk,,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4050,7 +3965,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1863,2021,Male,79.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1864,2021,Male,46.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1865,2021,Female,54.0,$15000 - 19999,17500.0,Working part time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-1866,2021,Male,60.0,Unk,,Other,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1867,2021,Male,22.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1868,2021,Male,70.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1869,2021,Male,25.0,$20000 - 24999,22500.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly oppose,STRONGLY DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4119,7 +4033,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1943,2021,Male,46.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1944,2021,Male,33.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1945,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-1946,2021,Male,63.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1947,2021,Male,33.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1949,2021,Female,36.0,$25000 OR MORE,30000.0,Working part time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1950,2021,Male,59.0,$25000 OR MORE,30000.0,Unemployed,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4130,7 +4043,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1955,2021,Unk,,Unk,,Working part time,Very dissatisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1956,2021,Female,42.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1957,2021,Male,22.0,Unk,,Unemployed,Very dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-1958,2021,Male,79.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1959,2021,Male,73.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1960,2021,Male,30.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,STRONGLY DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1961,2021,Female,56.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4149,7 +4061,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1976,2021,Male,35.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1977,2021,Female,75.0,Unk,,Keeping house,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1978,2021,Female,60.0,$25000 OR MORE,30000.0,Working full time,Very dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-1979,2021,Female,75.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1980,2021,Female,40.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1981,2021,Male,74.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1983,2021,Female,47.0,Unk,,Unemployed,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4162,7 +4073,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1991,2021,Female,63.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1992,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1993,2021,Unk,,Unk,,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-1994,2021,Female,80.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1995,2021,Male,61.0,$20000 - 24999,22500.0,Working full time,Very satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 1996,2021,Female,25.0,$25000 OR MORE,30000.0,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 1997,2021,Male,58.0,Unk,,Unemployed,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4186,7 +4096,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2018,2021,Female,60.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2019,2021,Female,31.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2020,2021,Female,81.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-2021,2021,Female,54.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2022,2021,Female,62.0,$25000 OR MORE,30000.0,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2023,2021,Female,54.0,Unk,,Keeping house,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Not strongly favor,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 2024,2021,Female,69.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4230,9 +4139,7 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2065,2021,Male,64.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2067,2021,Female,35.0,$10000 - 14999,12500.0,Unemployed,Very dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly oppose,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2068,2021,Male,41.0,$25000 OR MORE,30000.0,Working full time,Very dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2069,2021,Female,72.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2070,2021,Female,65.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-2071,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2072,2021,Female,34.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2073,2021,Unk,,Unk,,Working full time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2074,2021,Female,77.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4280,7 +4187,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2119,2021,Male,51.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2120,2021,Female,73.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2121,2021,Female,52.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-2122,2021,Female,74.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2123,2021,Female,29.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2124,2021,Female,56.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 2125,2021,Female,55.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4300,7 +4206,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2142,2021,Female,33.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2143,2021,Female,60.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2144,2021,Male,64.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2145,2021,Female,81.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2146,2021,Female,42.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2147,2021,Female,19.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 2148,2021,Unk,,Unk,,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4345,7 +4250,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2191,2021,Male,48.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2194,2021,Female,22.0,$7000 TO 7999,7500.0,Working part time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2195,2021,Female,37.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-2196,2021,Female,48.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2197,2021,Female,37.0,$15000 - 19999,17500.0,Unemployed,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2198,2021,Female,67.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2199,2021,Male,38.0,$6000 TO 6999,6500.0,Working full time,Very satisfied,Unk,Very likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4362,7 +4266,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2210,2021,Male,66.0,$10000 - 14999,12500.0,Working part time,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2211,2021,Female,39.0,Unk,,Working part time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2212,2021,Male,75.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-2213,2021,Female,61.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2214,2021,Male,19.0,Unk,,Working part time,Moderately satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 2215,2021,Female,42.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2216,2021,Female,47.0,$10000 - 14999,12500.0,Working part time,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4378,7 +4281,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2226,2021,Female,35.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2228,2021,Male,23.0,Unk,,Working full time,Very dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2229,2021,Male,28.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-2230,2021,Female,35.0,Unk,,Keeping house,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2231,2021,Female,,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2232,2021,Female,63.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2233,2021,Male,26.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4397,8 +4299,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2247,2021,Female,45.0,$10000 - 14999,12500.0,Working part time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2248,2021,Male,65.0,$20000 - 24999,22500.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2250,2021,Female,34.0,$25000 OR MORE,30000.0,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2251,2021,Female,59.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-2254,2021,Female,74.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2255,2021,Male,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2256,2021,Male,26.0,$15000 - 19999,17500.0,Working part time,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2257,2021,Female,,$6000 TO 6999,6500.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4443,12 +4343,10 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2299,2021,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2300,2021,Male,37.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2301,2021,Unk,,Unk,,Working part time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,STRONGLY AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
-2303,2021,Male,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2304,2021,Male,57.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2305,2021,Female,58.0,$10000 - 14999,12500.0,Working part time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2306,2021,Male,22.0,$10000 - 14999,12500.0,Working part time,A little dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2307,2021,Female,71.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2308,2021,Female,21.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2309,2021,Male,69.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2310,2021,Female,23.0,Unk,,Working part time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2311,2021,Male,40.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4542,10 +4440,8 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2412,2021,Female,50.0,$8000 TO 9999,9000.0,Working part time,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2413,2021,Unk,40.0,Unk,,Working full time,Moderately satisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 2414,2021,Male,63.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-2415,2021,Female,30.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2416,2021,Female,59.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2417,2021,Female,36.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-2418,2021,Female,83.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2419,2021,Female,74.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2420,2021,Male,44.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2421,2021,Female,43.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4553,7 +4449,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2424,2021,Female,24.0,$20000 - 24999,22500.0,Working full time,A little dissatisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2425,2021,Male,68.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2426,2021,Male,64.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-2428,2021,Male,37.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2429,2021,Female,33.0,Unk,,In school,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Not strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 2430,2021,Female,36.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2431,2021,Male,32.0,Unk,,Unemployed,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4599,7 +4494,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2471,2021,Female,49.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2472,2021,Female,69.0,$1000 TO 2999,2000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,STRONGLY DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 2474,2021,Female,62.0,Unk,,Keeping house,A little dissatisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
-2475,2021,Female,66.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2478,2021,Female,61.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2479,2021,Female,49.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2480,2021,Male,71.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4626,9 +4520,7 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2506,2021,Male,52.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2507,2021,Male,79.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 2508,2021,Female,40.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2510,2021,Female,89.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2511,2021,Male,61.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2513,2021,Female,74.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2514,2021,Male,64.0,Unk,,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2515,2021,Female,63.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 2516,2021,Male,38.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4661,7 +4553,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2544,2021,Male,30.0,$10000 - 14999,12500.0,Unemployed,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,STRONGLY AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 2545,2021,Unk,,Unk,,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2546,2021,Female,39.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2547,2021,Female,21.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2548,2021,Female,63.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2549,2021,Female,70.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2550,2021,Female,56.0,Unk,,Working part time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4695,7 +4586,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2581,2021,Female,23.0,$10000 - 14999,12500.0,"Job, but not at work",Moderately satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2582,2021,Male,52.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2583,2021,Male,27.0,$25000 OR MORE,30000.0,In school,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2584,2021,Female,70.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2585,2021,Female,,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2586,2021,Female,,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2587,2021,Female,63.0,$15000 - 19999,17500.0,Keeping house,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4711,7 +4601,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2597,2021,Male,50.0,$15000 - 19999,17500.0,"Job, but not at work",A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2598,2021,Female,37.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2599,2021,Female,,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-2600,2021,Female,81.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2601,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2602,2021,Male,56.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2603,2021,Unk,,Unk,,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Not strongly oppose,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4774,7 +4663,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2666,2021,Male,42.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2668,2021,Female,,$3000 TO 3999,3500.0,Working part time,Very satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2669,2021,Male,77.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-2671,2021,Female,69.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2672,2021,Female,55.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2674,2021,Male,62.0,$25000 OR MORE,30000.0,Unemployed,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 2675,2021,Male,26.0,$20000 - 24999,22500.0,In school,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4783,11 +4671,8 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2678,2021,Female,,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2679,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 2680,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2681,2021,Female,83.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-2682,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2683,2021,Female,32.0,Unk,,Unemployed,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2684,2021,Female,55.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly oppose,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-2685,2021,Female,79.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2686,2021,Female,67.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Not strongly oppose,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2687,2021,Male,46.0,$25000 OR MORE,30000.0,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2688,2021,Male,40.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4809,7 +4694,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2705,2021,Male,40.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 2706,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2707,2021,Female,36.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-2708,2021,Female,36.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2709,2021,Male,66.0,Unk,,Keeping house,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2710,2021,Female,45.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 2711,2021,Female,78.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4851,7 +4735,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2751,2021,Female,30.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2752,2021,Female,,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2753,2021,Female,43.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-2754,2021,Female,64.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2756,2021,Female,,$25000 OR MORE,30000.0,Working part time,A little dissatisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2757,2021,Male,83.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2758,2021,Female,40.0,$10000 - 14999,12500.0,Keeping house,A little dissatisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4865,7 +4748,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2767,2021,Female,80.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2769,2021,Male,75.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2771,2021,Female,75.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-2772,2021,Female,20.0,Unk,,Unemployed,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2773,2021,Male,,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,STRONGLY DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 2774,2021,Female,51.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2775,2021,Female,66.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4916,7 +4798,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2827,2021,Female,,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Not strongly favor,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2828,2021,Female,38.0,$15000 - 19999,17500.0,"Job, but not at work",A little dissatisfied,Unk,Not too likely,Unk,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2829,2021,Female,55.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Not strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-2831,2021,Male,76.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2832,2021,Female,49.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2833,2021,Female,,Unk,,Keeping house,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2835,2021,Female,56.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4924,7 +4805,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2837,2021,Female,60.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,STRONGLY DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2838,2021,Female,45.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2839,2021,Female,61.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-2840,2021,Unk,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2841,2021,Male,56.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2842,2021,Female,25.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2843,2021,Female,49.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4938,7 +4818,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2852,2021,Male,62.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2853,2021,Female,63.0,$25000 OR MORE,30000.0,Working full time,Unk,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2854,2021,Female,,Unk,,Working part time,Moderately satisfied,Unk,Very likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2855,2021,Female,75.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2857,2021,Male,42.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2858,2021,Male,46.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2859,2021,Female,43.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -4949,7 +4828,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2865,2021,Female,36.0,$10000 - 14999,12500.0,Working full time,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2866,2021,Female,69.0,$3000 TO 3999,3500.0,Working full time,Very dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2867,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2868,2021,Male,50.0,Unk,,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2869,2021,Female,46.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2870,2021,Female,44.0,$15000 - 19999,17500.0,Working full time,Moderately satisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly oppose,STRONGLY DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2871,2021,Female,63.0,$10000 - 14999,12500.0,"Job, but not at work",Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -4991,9 +4869,7 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2911,2021,Female,27.0,$20000 - 24999,22500.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2912,2021,Female,22.0,$1000 TO 2999,2000.0,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2913,2021,Male,52.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2914,2021,Female,34.0,$25000 OR MORE,30000.0,Working full time,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2915,2021,Unk,,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2916,2021,Female,65.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2917,2021,Male,65.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2918,2021,Male,20.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 2919,2021,Male,62.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5034,7 +4910,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2957,2021,Female,36.0,Unk,,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2958,2021,Female,74.0,$10000 - 14999,12500.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2959,2021,Male,68.0,$15000 - 19999,17500.0,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-2960,2021,Male,83.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2962,2021,Female,34.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2963,2021,Female,41.0,$25000 OR MORE,30000.0,Unemployed,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2964,2021,Female,29.0,$10000 - 14999,12500.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5054,7 +4929,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2978,2021,Female,,$10000 - 14999,12500.0,Working full time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2979,2021,Male,52.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2980,2021,Unk,,Unk,,Unemployed,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly favor,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-2981,2021,Female,18.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2982,2021,Female,,Unk,,Other,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2983,2021,Female,34.0,Unk,,Keeping house,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2984,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -5069,7 +4943,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2994,2021,Male,38.0,$20000 - 24999,22500.0,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2995,2021,Female,44.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2996,2021,Male,59.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-2997,2021,Unk,,Unk,,Unemployed,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2998,2021,Male,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 2999,2021,Female,25.0,$15000 - 19999,17500.0,In school,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3000,2021,Unk,25.0,Unk,,Working part time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5081,15 +4954,12 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3007,2021,Male,48.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3008,2021,Male,64.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3009,2021,Female,36.0,$10000 - 14999,12500.0,Working part time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly favor,DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-3010,2021,Unk,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3011,2021,Female,54.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3012,2021,Female,63.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3013,2021,Male,70.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3014,2021,Female,59.0,$25000 OR MORE,30000.0,Working full time,Very dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3015,2021,Male,59.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3016,2021,Female,49.0,Unk,,Unemployed,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3017,2021,Male,72.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3018,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3019,2021,Male,82.0,$1000 TO 2999,2000.0,Working part time,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3020,2021,Female,44.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3021,2021,Female,62.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5111,17 +4981,14 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3038,2021,Male,30.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3039,2021,Male,69.0,$15000 - 19999,17500.0,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3040,2021,Male,59.0,$1000 TO 2999,2000.0,Unemployed,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3041,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3042,2021,Female,66.0,$6000 TO 6999,6500.0,Unemployed,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3043,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,STRONGLY DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3044,2021,Male,63.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3045,2021,Female,21.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3046,2021,Female,65.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3047,2021,Female,67.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-3048,2021,Unk,,Unk,,Working full time,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3049,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,STRONGLY AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 3050,2021,Female,67.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3051,2021,Female,81.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3052,2021,Female,43.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3053,2021,Female,,Unk,,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3054,2021,Male,45.0,$10000 - 14999,12500.0,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5153,7 +5020,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3082,2021,Male,51.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3083,2021,Female,75.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3084,2021,Female,25.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-3085,2021,Female,60.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3087,2021,Female,50.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3088,2021,Female,89.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3089,2021,Female,44.0,$1000 TO 2999,2000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -5170,7 +5036,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3102,2021,Male,,Unk,,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,Unk,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3103,2021,Unk,,Unk,,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3104,2021,Male,66.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-3105,2021,Male,66.0,Unk,,Keeping house,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3106,2021,Unk,52.0,Unk,,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 3107,2021,Male,23.0,Unk,,In school,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3108,2021,Female,42.0,$25000 OR MORE,30000.0,Working part time,Moderately satisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly favor,STRONGLY AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -5216,7 +5081,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3154,2021,Male,29.0,$25000 OR MORE,30000.0,Working full time,Very dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3155,2021,Male,31.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3156,2021,Female,43.0,$1000 TO 2999,2000.0,Working part time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3157,2021,Female,75.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3158,2021,Male,37.0,Unk,,Working full time,A little dissatisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3159,2021,Female,61.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3160,2021,Male,,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5228,7 +5092,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3166,2021,Female,58.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3167,2021,Female,41.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3168,2021,Female,77.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3169,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3170,2021,Male,49.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3171,2021,Female,53.0,$10000 - 14999,12500.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3172,2021,Female,64.0,$10000 - 14999,12500.0,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5244,9 +5107,7 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3183,2021,Female,48.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3184,2021,Female,28.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3186,2021,Female,33.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3187,2021,Unk,,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3188,2021,Female,83.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3189,2021,Female,48.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3190,2021,Male,62.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3191,2021,Female,75.0,$25000 OR MORE,30000.0,Working full time,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3192,2021,Female,64.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5290,11 +5151,9 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3232,2021,Female,29.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3233,2021,Male,69.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3235,2021,Female,39.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3236,2021,Male,55.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3237,2021,Female,24.0,$15000 - 19999,17500.0,Keeping house,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3238,2021,Female,48.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3239,2021,Female,31.0,$25000 OR MORE,30000.0,"Job, but not at work",Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3240,2021,Unk,30.0,Unk,,Unemployed,A little dissatisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3242,2021,Male,46.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3243,2021,Female,24.0,$5000 TO 5999,5500.0,"Job, but not at work",A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3244,2021,Male,70.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5314,7 +5173,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3258,2021,Female,36.0,$8000 TO 9999,9000.0,Working part time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3259,2021,Female,42.0,$8000 TO 9999,9000.0,Working full time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3260,2021,Male,70.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
-3261,2021,Female,84.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3262,2021,Female,42.0,Unk,,Unemployed,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3263,2021,Male,31.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3264,2021,Female,76.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5364,7 +5222,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3316,2021,Female,41.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3317,2021,Male,19.0,Unk,,Working part time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3318,2021,Male,32.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3320,2021,Female,67.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3321,2021,Male,53.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3322,2021,Male,28.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3323,2021,Female,39.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5383,7 +5240,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3337,2021,Male,80.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3338,2021,Male,58.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3339,2021,Female,23.0,$1000 TO 2999,2000.0,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-3340,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3341,2021,Female,41.0,Unk,,Unemployed,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3343,2021,Female,36.0,$7000 TO 7999,7500.0,Working part time,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3344,2021,Female,29.0,$25000 OR MORE,30000.0,"Job, but not at work",Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -5411,7 +5267,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3372,2021,Female,85.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3373,2021,Female,72.0,LT $1000,500.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3374,2021,Female,59.0,$20000 - 24999,22500.0,Working part time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3375,2021,Female,83.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3376,2021,Male,62.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3377,2021,Male,65.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3378,2021,Female,73.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -5437,7 +5292,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3402,2021,Male,37.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Not strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3403,2021,Male,43.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3404,2021,Female,,$10000 - 14999,12500.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3406,2021,Female,61.0,Unk,,Retired,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3407,2021,Female,37.0,$25000 OR MORE,30000.0,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3408,2021,Female,58.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3409,2021,Female,29.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5469,21 +5323,18 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3438,2021,Male,36.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3440,2021,Female,78.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3441,2021,Female,62.0,$8000 TO 9999,9000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-3444,2021,Female,60.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3446,2021,Female,60.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3447,2021,Female,47.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3448,2021,Male,60.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly oppose,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3449,2021,Female,71.0,$5000 TO 5999,5500.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3450,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3452,2021,Female,,Unk,,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3453,2021,Female,18.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3455,2021,Female,46.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3456,2021,Female,83.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3457,2021,Male,75.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3458,2021,Male,43.0,Unk,,Keeping house,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3459,2021,Male,,Unk,,Unemployed,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,STRONGLY AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 3461,2021,Female,65.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3462,2021,Female,19.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3463,2021,Male,82.0,Unk,,Keeping house,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3464,2021,Female,52.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3465,2021,Male,25.0,$7000 TO 7999,7500.0,Working full time,Moderately satisfied,Unk,Very likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -5512,7 +5363,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3493,2021,Female,32.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Very likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3494,2021,Male,,Unk,,"Job, but not at work",Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,v,Unk,Unk,STRONGLY DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3495,2021,Male,29.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Very happy,Not strongly oppose,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-3496,2021,Female,67.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3497,2021,Male,57.0,$10000 - 14999,12500.0,Working full time,Moderately satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3498,2021,Male,51.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3499,2021,Female,73.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5520,7 +5370,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3501,2021,Female,45.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3502,2021,Female,38.0,$20000 - 24999,22500.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3503,2021,Male,35.0,Unk,,Working full time,Moderately satisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3504,2021,Female,22.0,Unk,,In school,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3505,2021,Female,65.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Not strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3506,2021,Male,30.0,$10000 - 14999,12500.0,Unemployed,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3507,2021,Female,56.0,$20000 - 24999,22500.0,Working part time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5555,7 +5404,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3538,2021,Female,89.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3539,2021,Male,76.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3540,2021,Male,79.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3542,2021,Female,67.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3544,2021,Male,38.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly oppose,DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 3545,2021,Male,47.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3546,2021,Female,59.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5567,7 +5415,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3552,2021,Female,33.0,$10000 - 14999,12500.0,Keeping house,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 3553,2021,Female,40.0,$10000 - 14999,12500.0,Unemployed,Moderately satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3554,2021,Female,37.0,$25000 OR MORE,30000.0,Unemployed,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-3555,2021,Male,19.0,Unk,,In school,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3556,2021,Male,51.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3557,2021,Male,49.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3558,2021,Female,73.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5575,7 +5422,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3560,2021,Male,68.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3561,2021,Female,63.0,$25000 OR MORE,30000.0,Unemployed,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3563,2021,Female,30.0,$15000 - 19999,17500.0,Working full time,Moderately satisfied,Unk,Fairly likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-3564,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3565,2021,Male,56.0,$20000 - 24999,22500.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3566,2021,Female,76.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3567,2021,Female,80.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5662,13 +5508,11 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3660,2021,Unk,,$25000 OR MORE,30000.0,"Job, but not at work",Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3661,2021,Male,,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3662,2021,Male,61.0,$25000 OR MORE,30000.0,Unemployed,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3663,2021,Female,69.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3664,2021,Female,47.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3666,2021,Female,46.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3667,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3668,2021,Male,63.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3670,2021,Female,34.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3672,2021,Male,77.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3673,2021,Female,,Unk,,Working part time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3674,2021,Male,30.0,$25000 OR MORE,30000.0,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3675,2021,Female,58.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5698,7 +5542,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3704,2021,Female,46.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3705,2021,Female,59.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3706,2021,Female,35.0,Unk,,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3707,2021,Female,61.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3708,2021,Female,82.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3709,2021,Male,50.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3710,2021,Female,47.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5734,7 +5577,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3745,2021,Male,44.0,Unk,,Unemployed,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Not too happy,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3746,2021,Female,75.0,$5000 TO 5999,5500.0,Working part time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3747,2021,Male,59.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-3748,2021,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3749,2021,Female,55.0,$7000 TO 7999,7500.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3750,2021,Female,29.0,$10000 - 14999,12500.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3751,2021,Female,,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5786,7 +5628,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3804,2021,Male,52.0,$25000 OR MORE,30000.0,Unemployed,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3805,2021,Female,26.0,$6000 TO 6999,6500.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3806,2021,Female,57.0,$25000 OR MORE,30000.0,Unemployed,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
-3807,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3808,2021,Female,50.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3809,2021,Female,82.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3810,2021,Male,78.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5794,7 +5635,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3812,2021,Female,64.0,$10000 - 14999,12500.0,Working part time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Strongly oppose,STRONGLY DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 3813,2021,Female,49.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly oppose,DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3814,2021,Male,78.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
-3815,2021,Female,85.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3816,2021,Male,21.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3817,2021,Female,26.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3818,2021,Male,65.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5809,14 +5649,12 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3827,2021,Male,39.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3829,2021,Male,55.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3830,2021,Male,64.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3831,2021,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3832,2021,Male,68.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3834,2021,Female,61.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3835,2021,Female,79.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3836,2021,Male,56.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3837,2021,Female,25.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3838,2021,Male,57.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3839,2021,Female,81.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3840,2021,Male,50.0,Unk,,Working full time,Moderately satisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3841,2021,Female,67.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3842,2021,Female,65.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5853,23 +5691,19 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3876,2021,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3877,2021,Male,,Unk,,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3878,2021,Male,19.0,$10000 - 14999,12500.0,Working full time,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3879,2021,Male,55.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3880,2021,Female,30.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3881,2021,Female,73.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,STRONGLY DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-3882,2021,Unk,,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3883,2021,Female,77.0,$3000 TO 3999,3500.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3884,2021,Female,65.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3885,2021,Male,69.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3886,2021,Male,52.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3889,2021,Male,42.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3890,2021,Female,,Unk,,Working full time,Very satisfied,Unk,Not likely,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3891,2021,Female,89.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3892,2021,Male,25.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,STRONGLY DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 3893,2021,Unk,,$10000 - 14999,12500.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3894,2021,Male,64.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3895,2021,Male,61.0,$25000 OR MORE,30000.0,Unemployed,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3896,2021,Male,65.0,$20000 - 24999,22500.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3897,2021,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3899,2021,Male,75.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3901,2021,Male,70.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3902,2021,Male,61.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -5904,7 +5738,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3935,2021,Male,76.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3936,2021,Female,24.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3937,2021,Female,70.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-3938,2021,Female,74.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3939,2021,Male,33.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3940,2021,Female,59.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3943,2021,Female,28.0,$20000 - 24999,22500.0,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5915,21 +5748,18 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3948,2021,Female,28.0,$1000 TO 2999,2000.0,Working full time,Very dissatisfied,Unk,Fairly likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3949,2021,Female,67.0,Unk,,Working part time,Moderately satisfied,Unk,Fairly likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3950,2021,Male,56.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-3951,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3952,2021,Female,63.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3953,2021,Male,77.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 3954,2021,Male,64.0,$20000 - 24999,22500.0,Working full time,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3955,2021,Male,69.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3956,2021,Female,58.0,$6000 TO 6999,6500.0,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3957,2021,Male,48.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3958,2021,Male,62.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3959,2021,Female,37.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3962,2021,Female,64.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3963,2021,Male,39.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3964,2021,Male,70.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3965,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3966,2021,Male,52.0,$25000 OR MORE,30000.0,"Job, but not at work",Moderately satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3968,2021,Female,86.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3969,2021,Unk,,Unk,,Unemployed,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 3970,2021,Female,78.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3972,2021,Female,48.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Very happy,Not strongly oppose,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
@@ -5965,16 +5795,13 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 4006,2021,Female,54.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not too likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4007,2021,Female,27.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 4008,2021,Female,29.0,Unk,,Unemployed,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-4009,2021,Female,81.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4010,2021,Female,70.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4011,2021,Male,44.0,Unk,,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4012,2021,Female,32.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4013,2021,Male,52.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 4014,2021,Male,53.0,$25000 OR MORE,30000.0,Working full time,Very dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4015,2021,Male,61.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-4016,2021,Male,19.0,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4018,2021,Female,33.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-4019,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4020,2021,Male,67.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 4021,2021,Male,55.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4022,2021,Female,43.0,Unk,,Working part time,Moderately satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -5983,7 +5810,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 4025,2021,Unk,,Unk,,Keeping house,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4026,2021,Male,84.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4027,2021,Male,58.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-4028,2021,Male,73.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4029,2021,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4031,2021,Female,63.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Not too happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4033,2021,Female,75.0,$6000 TO 6999,6500.0,Working part time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -6005,7 +5831,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 4053,2021,Male,,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 4055,2021,Male,45.0,$20000 - 24999,22500.0,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 4056,2021,Female,55.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
-4057,2021,Female,21.0,Unk,,In school,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4058,2021,Male,68.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 4059,2021,Male,71.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4060,2021,Male,60.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -6016,7 +5841,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 4068,2021,Male,,Unk,,Working part time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4069,2021,Female,42.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4070,2021,Male,48.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-4071,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4072,2021,Female,25.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly favor,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 4073,2021,Male,53.0,Unk,,Working full time,Very satisfied,Unk,Not likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 4074,2021,Female,69.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -6030,13 +5854,11 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 4083,2021,Female,62.0,$25000 OR MORE,30000.0,"Job, but not at work",Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4084,2021,Male,74.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4085,2021,Female,29.0,$15000 - 19999,17500.0,Working part time,Moderately satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-4086,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4087,2021,Female,35.0,$1000 TO 2999,2000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4088,2021,Female,29.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4089,2021,Female,34.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4090,2021,Female,69.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 4091,2021,Female,74.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-4092,2021,Unk,,Unk,,Working part time,A little dissatisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4093,2021,Male,74.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 4094,2021,Female,21.0,Unk,,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4095,2021,Male,57.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Very likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -6063,7 +5885,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 4120,2021,Female,65.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4121,2021,Male,42.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4122,2021,Female,31.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,STRONGLY DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-4123,2021,Female,46.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4124,2021,Female,36.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 4125,2021,Female,53.0,$25000 OR MORE,30000.0,Working part time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4126,2021,Female,47.0,$25000 OR MORE,30000.0,Keeping house,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -6138,7 +5959,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 4199,2021,Male,66.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4200,2021,Female,30.0,$25000 OR MORE,30000.0,Working full time,A little dissatisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4201,2021,Male,71.0,$25000 OR MORE,30000.0,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
-4202,2021,Female,80.0,Unk,,Retired,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4203,2021,Unk,,Unk,,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 4204,2021,Male,77.0,$8000 TO 9999,9000.0,Working part time,Very satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4205,2021,Female,49.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -6150,7 +5970,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 4211,2021,Female,,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 4214,2021,Male,69.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4215,2021,Male,40.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
-4216,2021,Male,68.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4217,2021,Female,67.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4218,2021,Unk,,Unk,,Working full time,Very dissatisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Not strongly favor,NEITHER AGREE NOR DISAGREE,VERY UNLIKELY,Unk,Unk,Unk,Unk,Unk
 4219,2021,Male,37.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly favor,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
@@ -6249,7 +6068,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 4322,2021,Male,34.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4323,2021,Male,31.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not too likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,DISAGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
 4324,2021,Female,65.0,$15000 - 19999,17500.0,Unemployed,Very satisfied,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
-4325,2021,Male,79.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4326,2021,Male,50.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
 4327,2021,Male,39.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 4328,2021,Male,44.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Unk,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,DISAGREE,Unk,Unk,Unk,Unk,Unk,Unk
@@ -6410,7 +6228,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 29,2022,Male,36.0,Unk,,Working full time,Unk,Unk,Unk,Not too happy,FAIRLY HAPPY,Unk,Unk,Sometimes,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,NO,NO,Unk
 30,2022,Female,79.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk
 31,2022,Male,65.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Somewhat satisfied,Unk,Pretty happy,FAIRLY HAPPY,Unk,Unk,Never,Very happy,Unk,Unk,Unk,Unk,Unk,Not at all true,NO,NO,Unk
-32,2022,Unk,,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 33,2022,Female,76.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,NEITHER AGREE NOR DISAGREE,Unk,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk
 34,2022,Female,72.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,FAIRLY HAPPY,Unk,Unk,Often,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 35,2022,Female,62.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,VERY HAPPY,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT UNLIKELY,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk
@@ -6904,7 +6721,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 523,2022,Female,41.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Somewhat satisfied,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT LIKELY,Unk,Somewhat true,NO,NO,Unk
 524,2022,Female,21.0,$20000 - 24999,22500.0,Working part time,Moderately satisfied,Somewhat satisfied,Unk,Pretty happy,FAIRLY HAPPY,Unk,Unk,Never,Unk,Unk,Unk,Unk,Unk,Unk,Very true,NO,NO,Unk
 525,2022,Female,66.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly favor,STRONGLY AGREE,SOMEWHAT UNLIKELY,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk
-526,2022,Female,36.0,Unk,,Other,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 527,2022,Female,,Unk,,Working full time,Very dissatisfied,Unk,Unk,Pretty happy,FAIRLY HAPPY,Unk,Unk,Never,Unk,Unk,Unk,Unk,Unk,Unk,Very true,Unk,Unk,Unk
 528,2022,Female,24.0,$5000 TO 5999,5500.0,Working full time,Moderately satisfied,Very satisfied,Unk,Pretty happy,VERY HAPPY,Unk,Unk,Sometimes,Unk,Unk,Unk,Unk,Unk,Unk,Very true,NO,NO,Unk
 529,2022,Female,24.0,$25000 OR MORE,30000.0,In school,Unk,Unk,Unk,Pretty happy,FAIRLY HAPPY,Unk,Unk,Often,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -7239,7 +7055,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 858,2022,Female,,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk
 859,2022,Male,69.0,Unk,,Working part time,Moderately satisfied,Somewhat satisfied,Not likely,Pretty happy,FAIRLY HAPPY,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY DISAGREE,SOMEWHAT UNLIKELY,SOMEWHAT UNLIKELY,Somewhat true,NO,NO,Unk
 860,2022,Female,85.0,Unk,,Retired,Unk,Unk,Unk,Very happy,COMPLETELY HAPPY,Unk,Unk,Never,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-861,2022,Unk,,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 862,2022,Male,58.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Very satisfied,Not likely,Pretty happy,VERY HAPPY,Unk,Unk,Unk,Pretty happy,Unk,Strongly oppose,Unk,SOMEWHAT LIKELY,SOMEWHAT UNLIKELY,Somewhat true,NO,NO,Unk
 863,2022,Female,37.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Very happy,FAIRLY HAPPY,Unk,Unk,Unk,Pretty happy,Unk,Unk,AGREE,Unk,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk
 864,2022,Male,20.0,Unk,,Keeping house,A little dissatisfied,Unk,Unk,Not too happy,FAIRLY HAPPY,Unk,Unk,Seldom,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -7516,7 +7331,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1135,2022,Male,69.0,Unk,,Retired,Unk,Unk,Unk,Very happy,COMPLETELY HAPPY,Unk,Unk,Seldom,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1136,2022,Female,69.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,FAIRLY UNHAPPY,Unk,Unk,Often,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1137,2022,Male,30.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Very satisfied,Unk,Pretty happy,FAIRLY HAPPY,Unk,Unk,Never,Unk,Unk,Unk,Unk,Unk,Unk,Very true,NO,NO,Unk
-1138,2022,Male,60.0,Unk,,Unk,Unk,Unk,Unk,Not too happy,VERY HAPPY,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1139,2022,Female,26.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,STRONGLY AGREE,VERY LIKELY,Unk,Unk,Unk,Unk,Unk
 1140,2022,Male,35.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Somewhat satisfied,Not likely,Pretty happy,FAIRLY HAPPY,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,VERY LIKELY,Somewhat true,NO,NO,Unk
 1141,2022,Male,61.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Not strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk
@@ -8002,7 +7816,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 1621,2022,Male,65.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,FAIRLY HAPPY,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 1622,2022,Female,76.0,Unk,,Unemployed,Very satisfied,Unk,Unk,Not too happy,FAIRLY HAPPY,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,VERY LIKELY,Unk,Unk,Unk,Unk
 1623,2022,Male,33.0,Unk,,Unemployed,Very satisfied,Unk,Unk,Pretty happy,FAIRLY HAPPY,Unk,Unk,Unk,Unk,Very happy,Unk,STRONGLY AGREE,Unk,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk
-1624,2022,Unk,,Unk,,In school,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Often,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1625,2022,Male,30.0,$25000 OR MORE,30000.0,Working full time,Very satisfied,Very satisfied,Unk,Pretty happy,FAIRLY HAPPY,Unk,Unk,Sometimes,Pretty happy,Unk,Unk,Unk,Unk,Unk,Somewhat true,NO,NO,Unk
 1626,2022,Female,45.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,VERY HAPPY,Unk,Unk,Sometimes,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 1627,2022,Female,71.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,FAIRLY HAPPY,Unk,Unk,Seldom,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
@@ -8613,7 +8426,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2232,2022,Female,47.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Somewhat satisfied,Not likely,Pretty happy,FAIRLY HAPPY,Unk,Unk,Unk,Unk,Unk,Not strongly oppose,AGREE,SOMEWHAT UNLIKELY,Unk,Somewhat true,NO,NO,Unk
 2233,2022,Female,64.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,NEITHER HAPPY NOR UNHAPPY,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk
 2234,2022,Female,44.0,Unk,,Other,Unk,Unk,Unk,Pretty happy,VERY HAPPY,Unk,Unk,Often,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-2235,2022,Unk,,Unk,,Other,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2236,2022,Female,68.0,Unk,,Retired,Unk,Unk,Unk,Very happy,VERY HAPPY,Unk,Unk,Unk,Unk,Unk,Not strongly favor,STRONGLY AGREE,VERY UNLIKELY,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk
 2237,2022,Female,78.0,Unk,,Working part time,Very satisfied,Very satisfied,Unk,Very happy,COMPLETELY HAPPY,Unk,Unk,Never,Very happy,Unk,Unk,Unk,Unk,Unk,Somewhat true,NO,NO,Unk
 2238,2022,Female,27.0,Unk,,Working part time,Moderately satisfied,Very satisfied,Not likely,Pretty happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT LIKELY,Unk,Very true,NO,NO,Unk
@@ -8857,7 +8669,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 2476,2022,Female,30.0,$20000 - 24999,22500.0,Working full time,A little dissatisfied,Unk,Not too likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Not strongly favor,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,Unk,Unk,Unk,Unk,Unk
 2477,2022,Female,77.0,Unk,,Retired,Unk,Unk,Unk,Pretty happy,FAIRLY HAPPY,Unk,Unk,Seldom,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 2478,2022,Female,70.0,Unk,,Retired,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Strongly oppose,NEITHER AGREE NOR DISAGREE,SOMEWHAT UNLIKELY,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk
-2479,2022,Female,23.0,Unk,,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2480,2022,Female,70.0,Unk,,Retired,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 2481,2022,Female,25.0,$20000 - 24999,22500.0,Working full time,Very satisfied,Very satisfied,Fairly likely,Very happy,Unk,Unk,Unk,Unk,Very happy,Unk,Unk,AGREE,Unk,VERY LIKELY,Very true,NO,NO,Unk
 2482,2022,Female,19.0,$20000 - 24999,22500.0,Working full time,Very dissatisfied,Not at all satisfied,Not likely,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly favor,AGREE,SOMEWHAT UNLIKELY,Unk,Not at all true,YES,YES,Unk
@@ -9839,7 +9650,6 @@ Respondent_ID,Survey_year,Sex,Age,Income,Income_numeric,Labor_force_status,Job_s
 3459,2022,Female,49.0,Unk,,Keeping house,Very satisfied,Unk,Unk,Not too happy,VERY HAPPY,Unk,Unk,Unk,Very happy,Unk,Unk,STRONGLY AGREE,Unk,Unk,Unk,Unk,Unk,Unk
 3460,2022,Female,40.0,$25000 OR MORE,30000.0,Keeping house,A little dissatisfied,Unk,Unk,Very happy,FAIRLY HAPPY,Unk,Unk,Seldom,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3461,2022,Male,22.0,Unk,,In school,Unk,Unk,Unk,Not too happy,FAIRLY UNHAPPY,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
-3462,2022,Male,,Unk,,Other,Unk,Unk,Unk,Not too happy,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3463,2022,Female,43.0,Unk,,Keeping house,Moderately satisfied,Unk,Unk,Not too happy,NEITHER HAPPY NOR UNHAPPY,Unk,Unk,Sometimes,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk,Unk
 3464,2022,Male,51.0,$25000 OR MORE,30000.0,Working full time,Moderately satisfied,Somewhat satisfied,Not likely,Pretty happy,FAIRLY HAPPY,Unk,Unk,Unk,Very happy,Unk,Strongly favor,STRONGLY AGREE,VERY UNLIKELY,Unk,Not too true,NO,NO,Unk
 3465,2022,Female,20.0,Unk,,In school,Unk,Unk,Unk,Very happy,Unk,Unk,Unk,Unk,Unk,Unk,Strongly oppose,AGREE,SOMEWHAT LIKELY,Unk,Unk,Unk,Unk,Unk
