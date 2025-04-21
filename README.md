@@ -4,13 +4,15 @@
 
 
 
-# da-project-promo-49-modulo-4-team-9# 🌟 **README del Proyecto: Análisis de la Masculinidad (Perspectiva Crítica y Feminista)**
+
+# 🌟 **README del Proyecto: Análisis de la Masculinidad (Perspectiva Crítica y Feminista)**
 
 
 Este proyecto está disponible en los siguientes idiomas / This project is available in the following languages:
 
 - 🇪🇸 [Versión en Español](#este-proyecto-analiza)
-- 🇬🇧 [English Version](#this-project-analizes)
+- 🇬🇧 [English Version](#-project-readme-masculinity-analysis-critical-and-feminist-perspective)
+
 
 
 
@@ -75,7 +77,7 @@ Este proyecto analiza la autopercepción masculina y cómo los roles de género 
 
 ### 👩‍💻 **Créditos**  
 Proyecto creado por dos compañeras mamás, Andrea Gauger y Nuria Salas Vázquez, en un bootcamp compuesto solo por mujeres, unidas por la misma sospecha: que la masculinidad no solo es tóxica… también es incómodamente absurda.
-
+.
 ---
 
 
